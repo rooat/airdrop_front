@@ -1,0 +1,291 @@
+body {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.App {
+  width: 100%;
+}
+.lanTextStyle {
+  position: absolute;
+  top: 50;
+  right: 10rem;
+  cursor: pointer;  
+  color: #fff;
+  font-size: 1.3em;
+}
+.container {
+  width: 37rem;
+  /*border: 1px solid;*/
+  margin: -10px auto;
+  align-items: flex-start;
+}
+.rowline {
+  align-self: flex-start;
+  /*border-width: 1;*/
+  margin-top: 2rem;
+}
+.rowline1 {
+  height: 2rem;
+  width: 2rem;
+  border-radius: 1000px;
+  background: #5844DE;
+  display: inline-block;
+  text-align: center;
+}
+.rowline1_p {
+  color: #fff;
+  font-size: 1.4em;
+ 
+}
+.rowline1text {
+  color: #555555;
+  font-size: 1.475em;
+  display: inline;
+  margin-left: 1rem;
+}
+.aStyle {
+  color: #495FE2;
+  font-size: 1em;
+  cursor: pointer;  
+}
+.img2 {
+  width: 100%;
+  z-index: 0;
+
+}
+.headText {
+  width: 50%;
+  margin: 3rem auto
+}
+.img1 {
+  height: 20.5rem;
+  width: 15.7rem;
+  z-index: 999;
+  align-self: center;
+  
+  position: absolute;
+  top: 1.7rem;
+  left: 48.7rem;
+  
+}
+.text1 {
+  text-align: center;
+  font-family: Source Han Sans CN;
+  font-size: 1.3em;
+  color: #666666;
+
+}
+
+.boxContainer {
+  width: 46rem;
+  height:16rem; 
+  padding-left: 5rem;
+  padding-right: 5rem;
+  /*border: 3px solid;*/
+  margin: 2rem auto;
+}
+.box{
+  text-align: center;
+  width:12.8rem;
+  height:5.1rem; 
+  
+  border-radius: 1.2rem;
+  padding-top: 2.8rem;
+}
+.box1 {
+  background:rgba(23,139,253,1);
+  float: left;
+}
+.box2 {
+  background:rgba(144,101,253,1);
+  float: right;
+}
+.box1_style_1 {
+  font-size:1em;
+  font-family:SourceHanSansCN-Regular;
+  color:rgba(255,255,255,1);
+  /*display: block;*/
+  margin-top: -2rem;
+}
+.box1_style_2 {
+  font-size:2.75em;
+  font-family:SourceHanSansCN-Medium;
+  color:rgba(255,255,255,1);
+   /*display: block;*/
+   margin-top: .2rem;
+}
+
+.inputContaier {
+  margin: 0 auto;
+  width: 36rem;
+  height: 3rem;
+  line-height: 3rem;
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid #178BFD;
+  border-radius: 3rem;
+  padding-left: 10px;
+  margin-top: 20px;
+}
+.mainBtn {
+    width: 10rem;
+    height: 3rem;
+    line-height: 3rem;
+    border: none;
+    align-items: center;
+    margin-right: -2px;
+    margin-top: -2px;
+    cursor: pointer;
+    color: #fff;
+    border-radius: 3rem;
+    background-color: #178BFD;
+    text-align: center;
+}
+.btnText {
+  color: #FFFFFF;
+  font-size: 1.2em;
+
+}
+.mainLeft{
+  width: 100%;
+  border: none;
+  border-top-left-radius: 3rem;
+  border-bottom-left-radius: 3rem;
+  color: #999999;
+  font-size: 1.375em;
+  background-color: #fff;
+  margin-left:-9px;
+}
+
+.iptText {
+    width: 44rem;
+    height: 1rem;
+    line-height: 1rem;
+    padding: 1.5rem 1rem;
+    color: #333;
+    font-size: 1.3em;
+    display: block;
+    border: 2px solid #373737;
+    border-radius: 2px;
+    box-sizing: content-box;
+    margin: 3rem auto;
+    text-align: center;
+}
+.iptbtn {
+    width: 45.5rem;
+    height: 4rem;
+    line-height: 4rem;
+    color: #fff;
+    font-size: 1.25em;
+    display: block;
+    box-sizing: content-box;
+    margin: 2rem auto;
+    background: url('./img3.png') no-repeat;
+    background-size: 100% 100%;
+    border: 0;
+}
+
+@media screen and (max-width: 760px) {
+  .text1{ 
+    font-size: 0.475em;
+    line-height: 2em;
+    color: #666666; 
+     width: 90%;
+  }
+  .headText{
+    width: 90%;
+  }
+  .img2{
+    height: 10rem;
+  }
+  .img1{
+    height: 6.3rem;
+    width: 72px;
+    z-index: 999;
+    align-self: center;
+    position: absolute;
+    top: 27px;
+    
+  }
+  .container{
+    width: 90%;
+    padding: 0;
+  }
+  .mainLeft{
+    /*width: */
+  }
+  .rowline1_p {
+    color: #fff;
+    font-size: 1.5em;
+  }
+  .rowline1 {
+    height: 2rem;
+    width: 2rem;
+  }
+  .aStyle{
+  font-size: 0.6em;
+
+  }
+  .rowline1text{
+    font-size: 1em;
+  }
+  .rowline{
+    margin-top: 1rem
+  }
+  .mainLeft{
+    padding-left: 1.2rem;
+    font-size:.75em;
+  }
+  .inputContaier{
+    width: 100%;
+    margin:0 auto;
+    height: 2.5rem;
+    line-height: 2.5rem;
+  }
+  .mainBtn{
+    height: 2.5rem;
+    line-height: 2.5rem;
+    width: 6rem;
+  }
+  .btnText{
+    font-size: .75em;
+  }
+  .boxContainer{
+    width: 90%;
+    height: 6rem;
+    padding:0;
+  }
+  .box{
+    width: 45%;
+    height: 6rem;
+    padding: 0;
+
+  }
+  .box1_style_2{
+    font-size: 1em;
+    margin-top:1rem;
+    
+  }
+  .box1_style_1{
+    font-size: 1em;
+    margin-top: 1.5rem
+  }
+
+  .iptText{
+    height: 3rem;
+    width: 95%;
+    padding: 0;
+    margin:3rem auto;
+  }
+  .iptbtn{
+    width: 96%;
+    height: 3.5rem;
+    padding: 0;
+     line-height:3.5rem
+  }
+  .lanTextStyle{
+    top:1rem;
+    right: 1rem;
+
+  }
+}

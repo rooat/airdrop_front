@@ -1,0 +1,15 @@
+//主要配置了antd得配置
+{
+  "presets": [
+    "es2015",
+    "stage-0",
+    "react"
+  ],
+  // "plugins": [
+  //     ["import", { "libraryName": "antd", "libraryDirectory": "es", "style": true }] // `style: true` 会加载 less 文件
+  //   ],
+
+  "plugins": [
+    ["import", { "libraryName": "antd", "libraryDirectory": "es", "style": "css" }] // `style: true` 会加载 less 文件
+  ]
+}

@@ -1,0 +1,50 @@
+{
+    "banner":{
+        "message":"The EtherZero App Wallet OpenETZ strikes! Airdrop 1 million ETZ candies!"
+    },
+    "first_page":{
+        "message":"How to get ETZ candy?"
+    },
+    "one_step":{
+        "message":"Download the EtherZero APP Wallet and get the ETZ Wallet Address:"
+    },
+    "twice_step":{
+        "message":"Fill in the EtherZero APP wallet address:"
+    },
+    "text_address":{
+        "message":"Enter OpenETZ wallet address to receive ETZ"
+    },
+    "code":{
+        "message":"Verification code"
+    },
+    "submit":{
+        "message":"Submit"
+    },
+    "describe":{
+        "message":"EtherZero (ETZ) is the next generation of smart contract platform (underlying public chain), it has 0 transaction fee, instant payment, and high TPS. Follow ETZ and get the chance to win lots of rewards!"
+    },
+    "reward":{
+        "message":"You can get 3ETZ for free by joining the telegram group, recommend friends to join the group can get more ETZ candy! If you recommend a lot of friends, you will get a big reward! Currently, ETZ has been listed on 5 exchanges, among them ETZ’s trade volume reaches the TOP on Cryptopia.:)"
+    },
+    "join":{
+        "message":"Join Telegram group"
+    },
+    "copy_code":{
+        "message":"Send the following verification code to the telegram group to get 3ETZ:"
+    },
+    "copy_address":{
+        "message":"Share your referral link and get 0.5ETZ for each friend you recommended to join the group."
+    },
+    "invite_success":{
+        "message":"Successfully invited"
+    },
+    "coin_success":{
+        "message":"Earned ETZ"
+    },
+    "person":{
+        "message":"persons"
+    },
+    "coin":{
+        "message":"numbers"
+    }
+}

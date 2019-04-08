@@ -1,0 +1,50 @@
+{
+    "banner":{
+        "message":"GoETZ插件钱包 重磅来袭！狂洒60亿糖果！"
+    },
+    "first_page":{
+        "message":"如何获取BO糖果？"
+    },
+    "one_step":{
+        "message":"下载安装GoETZ插件钱包，获取GoETZ钱包地址："
+    },
+    "twice_step":{
+        "message":"提交GoETZ钱包地址："
+    },
+    "text_address":{
+        "message":"输入GoETZ钱包地址，免费领BO"
+    },
+    "code":{
+        "message":"验证码"
+    },
+    "submit":{
+        "message":"提交"
+    },
+    "describe":{
+        "message":"以太零（EtherZero，简称ETZ）是新一代智能合约平台（底层公链），其特点0交易费，即时交易，高TPS。关注以太零，福利多多哦~"
+    },
+    "reward":{
+        "message":"入群即送2000 BO，推荐好友入群领糖果再送1000 BO! 推荐更多好友会有惊喜!"
+    },
+    "join":{
+        "message":"加入Telegram群组"
+    },
+    "copy_code":{
+        "message":"把以下验证码发到Telegram群即可获得2000 BO："
+    },
+    "copy_address":{
+        "message":"分享以下链接，每邀1个好友入群可再获得1000 BO"
+    },
+    "invite_success":{
+        "message":"已成功邀请"
+    },
+    "coin_success":{
+        "message":"已赚取BO"
+    },
+    "person":{
+        "message":"人"
+    },
+    "coin":{
+        "message":"枚"
+    }
+}
